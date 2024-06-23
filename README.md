@@ -12,4 +12,6 @@ $ cd spec
 $ blprnt preview --tests "../test/reports"
 ```
 
+The verified specification:
+
 ![A verified specification](gamespecverified.png)
