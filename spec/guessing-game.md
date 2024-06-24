@@ -6,8 +6,8 @@ The computer chooses a number, within a range (`[1,10]`) and prompts the user to
 
 ### Rules:
 
-* ::The user must enter a valid, whole number::{grep='WholeNumbersInRangeAreValid,NotWholeNumbersAreInvalid'}
-* ::The user must enter a number that is greater than or equal to the minimum value (`1`) and less than or equal to the maximum value (`10`)::{grep='WholeNumbersOutOfRangeAreInvalid'}
+* ::The user must enter a valid, whole number::{grep='whole numbers in range are valid,not whole numbers are invalid'}
+* ::The user must enter a number that is greater than or equal to the minimum value (`1`) and less than or equal to the maximum value (`10`)::{grep='numbers out of range are invalid'}
 
 ## Evaluation
 
